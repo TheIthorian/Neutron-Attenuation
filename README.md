@@ -23,3 +23,16 @@ Functions:
    
 Main:
   Defines materials and calls each function. Uses Matplotlib to plot graphs
+
+
+In a nuclear reactor, uranium undergoes induced fission when its nucleus captures
+neutrons to gain enough energy to split and release more neutrons which induce
+more fission reactions. The attenuation length of neutrons in different materials is
+important to know when constructing a nuclear reactor to ensure safety outside the
+reactor and to keep the chain reaction sub-critical.
+
+This python script constains functions for simulating the scattering and absorption of
+neutrons through different materials that are commonly used in a reactor to find the
+attenuation length of the neutrons though the materials. This is done using a Markov
+chain Monte Carlo technique of isometric steps as the neutron passes through the
+material
