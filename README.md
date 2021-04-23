@@ -1,7 +1,6 @@
 # Neutron-attenuation
 Monte-carlo simulation of neutrons passing through materials
 #
-Ben Shortland
 University of Manchester
 Computational Physics
 March 2018
